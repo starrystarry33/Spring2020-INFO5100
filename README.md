@@ -6,4 +6,4 @@ Spring2020 INFO5100 Application development
 Spring2020 INFO5100 Application development
 
 Just a try
->>>>>>>>> Temporary merge branch 2
+
