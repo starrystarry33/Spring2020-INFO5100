@@ -9,12 +9,12 @@ public class person {
             return Name;
         }
 
-        public  class  person { String name; int age; int ID};
-        this
+        public  class  person (String name; int age; int ID){
+        this.name = name;
 
-        this
+        this.age = age;
+        
+        this.id = id;
 
-        public int getID() {
-
-        }
+        
     }
